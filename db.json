@@ -1,0 +1,39 @@
+{
+    "burgers":[
+        {
+            "id": 0,
+            "name": "BK Royal Crispy Chicken Sandwich",
+            "restaurant": "Burger King",
+            "web": "https://www.bk.com",
+            "decsription": "Crispy white meat breast fillet topped with savory sauce, lettuce and juicy tomatoes on a toasted potato bun.",
+            "ingredients":["chicken", "cheese"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "line": "lachit nagar",
+                    "country":"India"
+                }
+            ]
+        }, 
+        {
+            "id": 1,
+            "name":"Classic zinger burger",
+            "restaurant":"KFC",
+            "web": "https://online.kfc.co.in/",
+            "decsription": "Crispy burger",
+            "ingredients":["cheese", "chicken"],
+            "addresses":[
+                {
+                    "addressid":"0",
+                    "line": "lachit nagar",
+                    "country":"India"
+                }
+            ]
+                
+           
+            
+                }
+            ]
+
+        }
+    
